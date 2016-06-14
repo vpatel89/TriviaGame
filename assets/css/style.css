@@ -1,0 +1,32 @@
+body{
+	background-image: url('../images/characterTile.jpg');
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;
+}
+
+#main{
+	height: 800px;
+	background-color: orange;
+	top: 100px;
+	text-align: center;
+}
+
+#title{
+	font-size: 100px;
+	text-align: center;
+}
+
+#button{
+	text-align: center;
+}
+
+#startButton{
+	padding: 70px 100px 70px 100px;
+	font-size: 50px;
+}
+
+#question,
+#choices{
+	font-size: 40px;
+}
